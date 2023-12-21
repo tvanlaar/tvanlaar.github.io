@@ -6,7 +6,7 @@
     - junco
 
 - id: doi:10.1128/MRA.00968-20
-  image: https://journals.asm.org/doi/10.1128/mra.00968-20#fig1
+  image: images/fig1.jpeg
   tags:
     - microbiome
     - helianthus
