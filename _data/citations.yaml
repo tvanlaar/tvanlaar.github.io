@@ -1,174 +1,269 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.3389/fevo.2022.1027399
+  title: Effects of short-term experimental manipulation of captive social environment
+    on uropygial gland microbiome and preen oil volatile composition
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - Danielle J. Whittaker
+  - Amruth Atyam
+  - Nathan A. Burroughs
+  - Jonathan M. Greenberg
+  - Travis J. Hagey
+  - Milos V. Novotny
+  - Helena A. Soini
+  - Kevin R. Theis
+  - Tricia A. Van Laar
+  - Joel W. G. Slade
+  publisher: Frontiers in Ecology and Evolution
+  date: '2023-01-06'
+  link: https://doi.org/gs9qsp
+  orcid: 0000-0002-4654-8501
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1128/mra.00982-22
+  title: Draft Genome Sequence of a Multidrug-Resistant Strain of Salmonella enterica
+    Serovar Typhimurium Isolated from a Pine Siskin (Spinus pinus)
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - Tricia A. Van Laar
+  - Lindsey Biehler
+  - Joel W. G. Slade
+  publisher: Microbiology Resource Announcements
+  date: '2022-11-17'
+  link: https://doi.org/gs9qsq
+  orcid: 0000-0002-4654-8501
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1128/MRA.00968-20
+  title: "16S rRNA Gene Diversity of Bacterial Endophytes in Parasitic\n         \
+    \   <i>Cuscuta campestris</i>\n            and Its\n            <i>Helianthus\
+    \ annuus</i>\n            Host"
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Adam T. Avila
+  - Tricia A. Van Laar
+  - John V. H. Constable
+  - Katherine Waselkov
+  publisher: Microbiology Resource Announcements
+  date: '2020-10-22'
+  link: https://doi.org/gs9qsr
+  orcid: 0000-0002-4654-8501
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1093/jme/tjaa080
+  title: Rickettsia spp. in Five Tick Species Collected in Central California
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  - Cameron J Osborne
+  - Alya J Wakeman-Hill
+  - Steven E Loa
+  - Paul R Crosbie
+  - Tricia A Van Laar
+  publisher: Journal of Medical Entomology
+  date: '2020-04-23'
+  link: https://doi.org/gs9qss
+  orcid: 0000-0002-4654-8501
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.1128/MRA.01367-18
+  title: Transcriptome Sequence of Antibiotic-Treated Pseudomonas aeruginosa
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Saika Esani
+  - Tsute Chen
+  - Kai P. Leung
+  - Tricia A. Van Laar
+  publisher: Microbiology Resource Announcements
+  date: '2019-03-21'
+  link: https://doi.org/gs9qst
+  orcid: 0000-0002-4654-8501
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1093/jme/tjy213
+  title: '<i>Borrelia parkeri</i>in<i>Ornithodoros parkeri</i>(Ixodida: Argasidae)
+    Collected Using Compact Dry Ice Traps in Madera County, California'
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vince P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Cameron J Osborne
+  - Paul R Crosbie
+  - Tricia A Van Laar
+  publisher: Journal of Medical Entomology
+  date: '2018-12-04'
+  link: https://doi.org/gs9qsv
+  orcid: 0000-0002-4654-8501
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1128/genomea.00017-17
+  title: "Draft Genome Sequence of a Multidrug-Resistant Strain of Enterococcus faecalis,\
+    \ PM01, Isolated from the Nest of an American Bushtit,\n            <i>Psaltriparius\
+    \ minimus</i>"
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - Saika Esani
+  - John V. H. Constable
+  - Tricia A. Van Laar
+  publisher: Genome Announcements
+  date: '2017-03-16'
+  link: https://doi.org/gs9qsw
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/iai.00684-16
+  title: Spermine and Spermidine Alter Gene Expression and Antigenic Profile of Borrelia
+    burgdorferi
+  authors:
+  - Ying-Han Lin
+  - Jesus A. Romo
+  - Trever C. Smith
+  - Ann N. Reyes
+  - S. L. Rajasekhar Karna
+  - Christine L. Miller
+  - Tricia A. Van Laar
+  - Raghunandan Yendapally
+  - James P. Chambers
+  - J. Seshu
+  publisher: Infection and Immunity
+  date: '2017-03-01'
+  link: https://doi.org/f9x738
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/mbo3.427
+  title: "Global transcriptome responses including small RNAs during mixed\u2010species\
+    \ interactions with methicillin\u2010resistant <i>Staphylococcus aureus</i> and\
+    \ <i>Pseudomonas aeruginosa</i>"
+  authors:
+  - Christine L. Miller
+  - Tricia A. Van Laar
+  - Tsute Chen
+  - S. L. Rajasekhar Karna
+  - Ping Chen
+  - Tao You
+  - Kai P. Leung
+  publisher: MicrobiologyOpen
+  date: '2016-11-21'
+  link: https://doi.org/gs9qsx
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.00880-16
+  title: Genome Sequences of Three Spore-Forming Bacteria Isolated from the Feces
+    of Organically Raised Chickens
+  authors:
+  - Victoria Kennedy
+  - Tricia A. Van Laar
+  - Omoshola Aleru
+  - Michael Thomas
+  - Michelle Ganci
+  - Mamta Rawat
+  publisher: Genome Announcements
+  date: '2016-10-27'
+  link: https://doi.org/gs9qsz
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.00807-16
+  title: "Genome Sequence of a Multidrug-Resistant Strain of\n            <i>Bacillus\
+    \ pumilus</i>\n            , CB01, Isolated from the Feces of an American Crow,\n\
+    \            <i>Corvus brachyrhynchos</i>"
+  authors:
+  - R. Lee Nelson
+  - Michael A. Castro
+  - Madhusudan Katti
+  - Jonathan A. Eisen
+  - Tricia A. Van Laar
+  publisher: Genome Announcements
+  date: '2016-08-25'
+  link: https://doi.org/gs9qs2
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.micinf.2016.03.004
+  title: Statins reduce spirochetal burden and modulate immune responses in the C3H/HeN
+    mouse model of Lyme disease
+  authors:
+  - Tricia A. Van Laar
+  - Camaron Hole
+  - S.L. Rajasekhar Karna
+  - Christine L. Miller
+  - Robert Reddick
+  - Floyd L. Wormley
+  - J. Seshu
+  publisher: Microbes and Infection
+  date: '2016-06-01'
+  link: https://doi.org/f8rc9k
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/aac.04581-14
+  title: Sublethal Concentrations of Carbapenems Alter Cell Morphology and Genomic
+    Expression of Klebsiella pneumoniae Biofilms
+  authors:
+  - Tricia A. Van Laar
+  - Tsute Chen
+  - Tao You
+  - Kai P. Leung
+  publisher: Antimicrobial Agents and Chemotherapy
+  date: '2015-03-01'
+  link: https://doi.org/f68dxh
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/genomea.01230-14
+  title: Genome Sequence of a Multidrug-Resistant Strain of Klebsiella pneumoniae,
+    BAMC 07-18, Isolated from a Combat Injury Wound
+  authors:
+  - Tricia A. Van Laar
+  - Tsute Chen
+  - Brandon M. Childers
+  - Ping Chen
+  - Johnathan J. Abercrombie
+  - Kai P. Leung
+  publisher: Genome Announcements
+  date: '2014-12-24'
+  link: https://doi.org/gs9qtb
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/iai.00521-13
+  title: "MrkD\n            <sub>1P</sub>\n            from Klebsiella pneumoniae\
+    \ Strain IA565 Allows for Coexistence with Pseudomonas aeruginosa and Protection\
+    \ from Protease-Mediated Biofilm Detachment"
+  authors:
+  - Brandon M. Childers
+  - Tricia A. Van Laar
+  - Tao You
+  - Steven Clegg
+  - Kai P. Leung
+  publisher: Infection and Immunity
+  date: '2013-11-01'
+  link: https://doi.org/f5dbnq
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0038171
+  title: Effect of Levels of Acetate on the Mevalonate Pathway of Borrelia burgdorferi
+  authors:
+  - Tricia A. Van Laar
+  - Ying-Han Lin
+  - Christine L. Miller
+  - S. L. Rajasekhar Karna
+  - James P. Chambers
+  - J. Seshu
+  publisher: PLoS ONE
+  date: '2012-05-31'
+  link: https://doi.org/f3z574
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/iai.05234-11
+  title: Oligopeptide Permease A5 Modulates Vertebrate Host-Specific Adaptation of
+    Borrelia burgdorferi
+  authors:
+  - B. V. Subba Raju
+  - Maria D. Esteve-Gassent
+  - S. L. Rajasekhar Karna
+  - Christine L. Miller
+  - Tricia A. Van Laar
+  - J. Seshu
+  publisher: Infection and Immunity
+  date: '2011-08-01'
+  link: https://doi.org/bj7gj8
+  orcid: 0000-0002-4654-8501
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +279,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +295,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
