@@ -9,7 +9,7 @@
   image: images/fig1.jpeg
   tags:
     - microbiome
-    - helianthus
+    - <i>Helianthus</i>
 
 - id: doi:10.1128/mra.00982-22
   title: Draft Genome Sequence of a Multidrug-Resistant Strain of <i>Salmonella enterica</i>
@@ -18,4 +18,12 @@
   tags:
     - whole genome sequencing
     - pine siskin
-    - salmonella
+    - <i>Salmonella</i>
+    
+- id: doi:10.1093/jme/tjaa080
+  title: <i>Rickettsia</i> spp. in Five Tick Species Collected in Central California
+  image: images/phylogeny.jpeg
+  tags:
+    - vector-borne disease
+    - tick
+    - <i>Rickettsia</i>
