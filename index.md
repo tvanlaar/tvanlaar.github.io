@@ -11,7 +11,7 @@ Here's where you can find information on my teaching and research...and other st
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+If you're not able to access one of our publications, please email Dr. Van Laar (tvanlaar@csustan.edu) with the subject "Publication Request".
 
 {%
   include button.html
