@@ -10,3 +10,10 @@
   tags:
     - microbiome
     - helianthus
+
+- id: doi:10.1128/mra.00982-22
+  image: images/siskin.jpg
+  tags:
+    - whole genome sequencing
+    - pine siskin
+    - salmonella
