@@ -174,8 +174,14 @@
   date: '2016-11-21'
   link: https://doi.org/gs9qsx
   orcid: 0000-0002-4654-8501
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/mixedbiofilms.png
+  tags:
+  - <i>Pseudomonas aeruginosa</i>
+  - <i>Staphylococcus aureus</i>
+  - biofilm
+  - transcriptome
 - id: doi:10.1128/genomea.00880-16
   title: Genome Sequences of Three Spore-Forming Bacteria Isolated from the Feces
     of Organically Raised Chickens
