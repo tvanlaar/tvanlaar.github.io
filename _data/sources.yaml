@@ -12,7 +12,7 @@
     - helianthus
 
 - id: doi:10.1128/mra.00982-22
-  title: Draft Genome Sequence of a Multidrug-Resistant Strain of _Salmonella enterica_
+  title: Draft Genome Sequence of a Multidrug-Resistant Strain of <i>Salmonella enterica</i>
     Serovar Typhimurium Isolated from a Pine Siskin (<i>Spinus pinus</i>)
   image: images/siskin.jpg
   tags:
