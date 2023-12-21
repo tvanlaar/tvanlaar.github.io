@@ -55,3 +55,11 @@
     - <i>Borrelia burgdorferi</i>
     - vector-borne disease
     - Lyme disease
+
+- id: doi:10.1002/mbo3.427
+  image: images/mixedbiofilms.png
+  tags:
+    - <i>Pseudomonas aeruginosa</i>
+    - <i>Staphylococcus aureus</i>
+    - biofilm
+    - transcriptome
