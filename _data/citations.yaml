@@ -101,7 +101,7 @@
   - biofilm
   - antibiotic resistance
 - id: doi:10.1093/jme/tjy213
-  title: '<i>Borrelia parkeri</i>in<i>Ornithodoros parkeri</i>(Ixodida: Argasidae)
+  title: '<i>Borrelia parkeri</i> in <i>Ornithodoros parkeri</i> (Ixodida: Argasidae)
     Collected Using Compact Dry Ice Traps in Madera County, California'
   authors:
   - Cameron J Osborne
@@ -111,8 +111,14 @@
   date: '2018-12-04'
   link: https://doi.org/gs9qsv
   orcid: 0000-0002-4654-8501
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/ticktrap.png
+  tags:
+  - <i>Borrelia parkeri</i>
+  - <i>Ornithodoros parkeri</i>
+  - tick
+  - vector-borne disease
 - id: doi:10.1128/genomea.00017-17
   title: "Draft Genome Sequence of a Multidrug-Resistant Strain of Enterococcus faecalis,\
     \ PM01, Isolated from the Nest of an American Bushtit,\n            <i>Psaltriparius\
