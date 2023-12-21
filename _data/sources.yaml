@@ -70,3 +70,13 @@
     - <i>Borrelia burgdorferi</i>
     - vector-borne disease
     - Lyme disease
+
+- id: doi:10.1128/aac.04581-14
+  title: Sublethal Concentrations of Carbapenems Alter Cell Morphology and Genomic
+    Expression of <i>Klebsiella pneumoniae</i> Biofilms
+  image: images/kpbiofilm.png
+  tags:
+    - <i>Klebsiella pneumoniae</i>
+    - biofilm
+    - transcriptome
+    - antibiotic resistance
