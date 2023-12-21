@@ -1,9 +1,9 @@
 ---
 ---
 
-# tvanlaar's Website
+# Dr. Van Laar's Website
 
-An engaging 1-3 sentence description of your lab.
+Here's where you can find information on my teaching and research...and other stuff I am interested in!
 
 {% include section.html %}
 
@@ -28,7 +28,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   include feature.html
   image="images/photo.jpg"
   link="research"
-  title="Our Research"
+  title="Our Publications"
   text=text
 %}
 
