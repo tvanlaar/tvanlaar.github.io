@@ -90,3 +90,11 @@
     - <i>Klebsiella pneumoniae</i>
     - biofilm
     - <i>Pseudomonas aeruginosa</i>
+
+- id: doi:10.1128/genomea.01230-14
+  title: Genome Sequence of a Multidrug-Resistant Strain of <i>Klebsiella pneumoniae</i>,
+    BAMC 07-18, Isolated from a Combat Injury Wound
+  tags: 
+    - <i>Klebsiella pneumoniae</i>
+    - antibiotic resistance
+    - whole genome sequencing
