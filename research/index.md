@@ -14,7 +14,8 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
 
 ## Highlighted
 
-{% include citation.html lookup="Junco" style="rich" %}
+{% include citation.html lookup="Effects of short-term experimental manipulation of captive social environment
+    on uropygial gland microbiome and preen oil volatile composition" style="rich" %}
 
 {% include section.html %}
 
