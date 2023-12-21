@@ -1,18 +1,18 @@
 # site properties and page defaults
-title: tvanlaar
-subtitle: 
-description: An engaging 1-3 sentence description of your lab.
+title: Van Laar 
+subtitle: Website for the Dr. Van Laar at CSU Stanislaus
+description: Microbiology, bioinformatics, genomics, birds
 header: images/background.jpg
 footer: images/background.jpg
 
 # site social media and other links
 links:
-  email: contact@tvanlaar.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: tvanlaar@csustan.edu
+  orcid: 0000-0002-4654-8501
+  google-scholar: HifJIqwAAAAJ
   github: tvanlaar
-  twitter: tvanlaar
-  youtube: tvanlaar
+  twitter: tvanlaarmicro
+  youtube: triciavanlaar407
 
 ### jekyll settings
 
