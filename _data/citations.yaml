@@ -58,7 +58,7 @@
   orcid: 0000-0002-4654-8501
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.asm.org/doi/10.1128/mra.00968-20#fig1
+  image: images/fig1.jpeg
   tags:
   - microbiome
   - helianthus
