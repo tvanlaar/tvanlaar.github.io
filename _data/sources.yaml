@@ -46,3 +46,12 @@
     - <i>Ornithodoros parkeri</i>
     - tick
     - vector-borne disease
+
+- id: doi:10.1128/iai.00684-16
+  title: Spermine and Spermidine Alter Gene Expression and Antigenic Profile of <i>Borrelia
+    burgdorferi</i>
+  image: images/pot.png
+  tags:
+    - <i>Borrelia burgdorferi</i>
+    - vector-borne disease
+    - Lyme disease
