@@ -257,7 +257,7 @@
   - transcriptome
   - antibiotic resistance
 - id: doi:10.1128/genomea.01230-14
-  title: Genome Sequence of a Multidrug-Resistant Strain of Klebsiella pneumoniae,
+  title: Genome Sequence of a Multidrug-Resistant Strain of <i>Klebsiella pneumoniae</i>,
     BAMC 07-18, Isolated from a Combat Injury Wound
   authors:
   - Tricia A. Van Laar
@@ -270,8 +270,12 @@
   date: '2014-12-24'
   link: https://doi.org/gs9qtb
   orcid: 0000-0002-4654-8501
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  tags:
+  - <i>Klebsiella pneumoniae</i>
+  - antibiotic resistance
+  - whole genome sequencing
 - id: doi:10.1128/iai.00521-13
   title: "MrkD\n            <sub>1P</sub>\n            from <i>Klebsiella pneumoniae</i>\
     \ Strain IA565 Allows for Coexistence with <i>Pseudomonas aeruginosa</i> and Protection\
