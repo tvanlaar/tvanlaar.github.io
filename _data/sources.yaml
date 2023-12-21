@@ -27,3 +27,12 @@
     - vector-borne disease
     - tick
     - <i>Rickettsia</i>
+    
+- id: doi:10.1128/MRA.01367-18
+  title: Transcriptome Sequence of Antibiotic-Treated <i>Pseudomonas aeruginosa</i>
+  image: images/transcriptome.png
+  tags: 
+    - transcriptome
+    - <i>Pseudomonas aeruginosa</i>
+    - biofilm
+    - antibiotic resistance
