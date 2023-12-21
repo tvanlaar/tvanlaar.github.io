@@ -63,3 +63,10 @@
     - <i>Staphylococcus aureus</i>
     - biofilm
     - transcriptome
+
+- id: doi:10.1016/j.micinf.2016.03.004
+  image: images/qpcr.jpg
+  tags:
+    - <i>Borrelia burgdorferi</i>
+    - vector-borne disease
+    - Lyme disease
