@@ -13,8 +13,7 @@ Here, you'll find the complete list of papers written by Dr. Van Laar and her co
 
 ## Highlighted
 
-{% include citation.html lookup="Effects of short-term experimental manipulation of captive social environment
-    on uropygial gland microbiome and preen oil volatile composition" style="rich" %}
+{% include citation.html lookup="doi:10.3389/fevo.2022.1027399" style="rich" %}
 
 {% include section.html %}
 
