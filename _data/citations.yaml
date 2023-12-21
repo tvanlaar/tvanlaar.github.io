@@ -21,6 +21,10 @@
   plugin: sources.py
   file: sources.yaml
   image: https://www.frontiersin.org/files/Articles/1027399/fevo-10-1027399-HTML/image_m/fevo-10-1027399-g002.jpg
+  tags:
+  - microbiome
+  - ornithology
+  - junco
 - id: doi:10.1128/mra.00982-22
   title: Draft Genome Sequence of a Multidrug-Resistant Strain of Salmonella enterica
     Serovar Typhimurium Isolated from a Pine Siskin (Spinus pinus)
