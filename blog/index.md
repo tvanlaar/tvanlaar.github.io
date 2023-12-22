@@ -1,8 +1,8 @@
 ---
 title: Blog
 nav:
-  order: 4
-  tooltip: Musings and miscellany
+  order: 5
+  tooltip: News and other tidbits
 ---
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
