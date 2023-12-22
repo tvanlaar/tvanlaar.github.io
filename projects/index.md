@@ -1,8 +1,8 @@
 ---
 title: Projects
 nav:
-  order: 2
-  tooltip: Software, datasets, and more
+  order: 3
+  tooltip: Details about the lab's current work
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Projects
