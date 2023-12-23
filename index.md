@@ -6,7 +6,7 @@
 Here's where you can find information on my teaching and research...and other stuff I am interested in!
 <br>
 <br>
-We are currently recruiting one MS Biology ((link to MS Biology information))[https://www.csustan.edu/msbiology] student to begin in the Fall of 2024. This is an NSF-funded project in collaboration with Dr. Slade at Fresno State. The student will be doing metagenomics on samples from 4 species of cardueline finches. No bioinformatics experience is necessary. Please contact Dr. Van Laar with your CV, transcripts, and letter of interest prior to applying for the MS Biology program. 
+We are currently recruiting one MS Biology ((link to MS Biology information)[https://www.csustan.edu/msbiology]) student to begin in the Fall of 2024. This is an NSF-funded project in collaboration with Dr. Slade at Fresno State. The student will be doing metagenomics on samples from 4 species of cardueline finches. No bioinformatics experience is necessary. Please contact Dr. Van Laar with your CV, transcripts, and letter of interest prior to applying for the MS Biology program. 
 
 {% include section.html %}
 
