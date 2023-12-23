@@ -9,7 +9,7 @@
   image: images/fig1.jpeg
   tags:
     - microbiome
-    - <i>Helianthus</i>
+    - Helianthus
 
 - id: doi:10.1128/mra.00982-22
   title: Draft Genome Sequence of a Multidrug-Resistant Strain of <i>Salmonella enterica</i>
@@ -18,7 +18,7 @@
   tags:
     - whole genome sequencing
     - pine siskin
-    - <i>Salmonella</i>
+    - Salmonella
     
 - id: doi:10.1093/jme/tjaa080
   title: <i>Rickettsia</i> spp. in Five Tick Species Collected in Central California
@@ -26,14 +26,14 @@
   tags:
     - vector-borne disease
     - tick
-    - <i>Rickettsia</i>
+    - Rickettsia
     
 - id: doi:10.1128/MRA.01367-18
   title: Transcriptome Sequence of Antibiotic-Treated <i>Pseudomonas aeruginosa</i>
   image: images/transcriptome.png
   tags: 
     - transcriptome
-    - <i>Pseudomonas aeruginosa</i>
+    - Pseudomonas aeruginosa
     - biofilm
     - antibiotic resistance
 
@@ -42,8 +42,8 @@
     Collected Using Compact Dry Ice Traps in Madera County, California'
   image: images/ticktrap.png
   tags:
-    - <i>Borrelia parkeri</i>
-    - <i>Ornithodoros parkeri</i>
+    - Borrelia parkeri
+    - Ornithodoros parkeri
     - tick
     - vector-borne disease
 
@@ -52,22 +52,22 @@
     burgdorferi</i>
   image: images/pot.png
   tags:
-    - <i>Borrelia burgdorferi</i>
+    - Borrelia burgdorferi
     - vector-borne disease
     - Lyme disease
 
 - id: doi:10.1002/mbo3.427
   image: images/mixedbiofilms.png
   tags:
-    - <i>Pseudomonas aeruginosa</i>
-    - <i>Staphylococcus aureus</i>
+    - Pseudomonas aeruginosa
+    - Staphylococcus aureus
     - biofilm
     - transcriptome
 
 - id: doi:10.1016/j.micinf.2016.03.004
   image: images/qpcr.jpg
   tags:
-    - <i>Borrelia burgdorferi</i>
+    - Borrelia burgdorferi
     - vector-borne disease
     - Lyme disease
 
@@ -76,7 +76,7 @@
     Expression of <i>Klebsiella pneumoniae</i> Biofilms
   image: images/kpbiofilm.png
   tags:
-    - <i>Klebsiella pneumoniae</i>
+    - Klebsiella pneumoniae
     - biofilm
     - transcriptome
     - antibiotic resistance
@@ -87,14 +87,23 @@
     \ from Protease-Mediated Biofilm Detachment"
   image: images/ci.png
   tags: 
-    - <i>Klebsiella pneumoniae</i>
+    - Klebsiella pneumoniae
     - biofilm
-    - <i>Pseudomonas aeruginosa</i>
+    - Pseudomonas aeruginosa
 
 - id: doi:10.1128/genomea.01230-14
   title: Genome Sequence of a Multidrug-Resistant Strain of <i>Klebsiella pneumoniae</i>,
     BAMC 07-18, Isolated from a Combat Injury Wound
   tags: 
-    - <i>Klebsiella pneumoniae</i>
+    - Klebsiella pneumoniae
     - antibiotic resistance
     - whole genome sequencing
+
+- id: doi:10.1128/msphere.00155-18
+  title: "<i>Pseudomonas aeruginosa\n            gshA</i>\n            Mutant Is Defective\
+    \ in Biofilm Formation, Swarming, and Pyocyanin Production"
+  image: competition.png
+  tags: 
+    - glutathion
+    - biofilm
+    - Pseudomonas aeruginosa
