@@ -42,7 +42,7 @@
   tags:
   - whole genome sequencing
   - pine siskin
-  - <i>Salmonella</i>
+  - Salmonella
 - id: doi:10.1128/MRA.00968-20
   title: "16S rRNA Gene Diversity of Bacterial Endophytes in Parasitic\n         \
     \   <i>Cuscuta campestris</i>\n            and Its\n            <i>Helianthus\
@@ -61,7 +61,7 @@
   image: images/fig1.jpeg
   tags:
   - microbiome
-  - <i>Helianthus</i>
+  - Helianthus
 - id: doi:10.1093/jme/tjaa080
   title: <i>Rickettsia</i> spp. in Five Tick Species Collected in Central California
   authors:
@@ -80,7 +80,7 @@
   tags:
   - vector-borne disease
   - tick
-  - <i>Rickettsia</i>
+  - Rickettsia
 - id: doi:10.1128/MRA.01367-18
   title: Transcriptome Sequence of Antibiotic-Treated <i>Pseudomonas aeruginosa</i>
   authors:
@@ -97,11 +97,11 @@
   image: images/transcriptome.png
   tags:
   - transcriptome
-  - <i>Pseudomonas aeruginosa</i>
+  - Pseudomonas aeruginosa
   - biofilm
   - antibiotic resistance
 - id: doi:10.1128/msphere.00155-18
-  title: "Pseudomonas aeruginosa\n            <i>gshA</i>\n            Mutant Is Defective\
+  title: "<i>Pseudomonas aeruginosa\n            gshA</i>\n            Mutant Is Defective\
     \ in Biofilm Formation, Swarming, and Pyocyanin Production"
   authors:
   - Tricia A. Van Laar
@@ -114,8 +114,13 @@
   date: '2018-04-25'
   link: https://doi.org/grb9nf
   orcid: 0000-0002-4654-8501
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: competition.png
+  tags:
+  - glutathion
+  - biofilm
+  - Pseudomonas aeruginosa
 - id: doi:10.1093/jme/tjy213
   title: '<i>Borrelia parkeri</i> in <i>Ornithodoros parkeri</i> (Ixodida: Argasidae)
     Collected Using Compact Dry Ice Traps in Madera County, California'
@@ -131,8 +136,8 @@
   file: sources.yaml
   image: images/ticktrap.png
   tags:
-  - <i>Borrelia parkeri</i>
-  - <i>Ornithodoros parkeri</i>
+  - Borrelia parkeri
+  - Ornithodoros parkeri
   - tick
   - vector-borne disease
 - id: doi:10.1128/genomea.00017-17
@@ -171,7 +176,7 @@
   file: sources.yaml
   image: images/pot.png
   tags:
-  - <i>Borrelia burgdorferi</i>
+  - Borrelia burgdorferi
   - vector-borne disease
   - Lyme disease
 - id: doi:10.1002/mbo3.427
@@ -194,8 +199,8 @@
   file: sources.yaml
   image: images/mixedbiofilms.png
   tags:
-  - <i>Pseudomonas aeruginosa</i>
-  - <i>Staphylococcus aureus</i>
+  - Pseudomonas aeruginosa
+  - Staphylococcus aureus
   - biofilm
   - transcriptome
 - id: doi:10.1128/genomea.00880-16
@@ -249,7 +254,7 @@
   file: sources.yaml
   image: images/qpcr.jpg
   tags:
-  - <i>Borrelia burgdorferi</i>
+  - Borrelia burgdorferi
   - vector-borne disease
   - Lyme disease
 - id: doi:10.1128/aac.04581-14
@@ -268,7 +273,7 @@
   file: sources.yaml
   image: images/kpbiofilm.png
   tags:
-  - <i>Klebsiella pneumoniae</i>
+  - Klebsiella pneumoniae
   - biofilm
   - transcriptome
   - antibiotic resistance
@@ -289,7 +294,7 @@
   plugin: sources.py
   file: sources.yaml
   tags:
-  - <i>Klebsiella pneumoniae</i>
+  - Klebsiella pneumoniae
   - antibiotic resistance
   - whole genome sequencing
 - id: doi:10.1128/iai.00521-13
@@ -310,9 +315,9 @@
   file: sources.yaml
   image: images/ci.png
   tags:
-  - <i>Klebsiella pneumoniae</i>
+  - Klebsiella pneumoniae
   - biofilm
-  - <i>Pseudomonas aeruginosa</i>
+  - Pseudomonas aeruginosa
 - id: doi:10.1371/journal.pone.0038171
   title: Effect of Levels of Acetate on the Mevalonate Pathway of Borrelia burgdorferi
   authors:
