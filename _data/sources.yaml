@@ -104,6 +104,14 @@
     \ in Biofilm Formation, Swarming, and Pyocyanin Production"
   image: images/cross.png
   tags: 
-    - glutathion
+    - glutathione
     - biofilm
     - Pseudomonas aeruginosa
+
+- id: doi:10.1371/journal.pone.0038171
+  title: Effect of Levels of Acetate on the Mevalonate Pathway of <i>Borrelia burgdorferi</i>
+  image: images/confocal.png
+  tags: 
+    - Borrelia burgdorferi
+    - genetics
+    - biochemistry
