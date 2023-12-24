@@ -118,7 +118,7 @@
   file: sources.yaml
   image: images/cross.png
   tags:
-  - glutathion
+  - glutathione
   - biofilm
   - Pseudomonas aeruginosa
 - id: doi:10.1093/jme/tjy213
@@ -319,7 +319,7 @@
   - biofilm
   - Pseudomonas aeruginosa
 - id: doi:10.1371/journal.pone.0038171
-  title: Effect of Levels of Acetate on the Mevalonate Pathway of Borrelia burgdorferi
+  title: Effect of Levels of Acetate on the Mevalonate Pathway of <i>Borrelia burgdorferi</i>
   authors:
   - Tricia A. Van Laar
   - Ying-Han Lin
@@ -331,8 +331,13 @@
   date: '2012-05-31'
   link: https://doi.org/f3z574
   orcid: 0000-0002-4654-8501
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/confocal.png
+  tags:
+  - Borrelia burgdorferi
+  - genetics
+  - biochemistry
 - id: doi:10.1128/iai.05234-11
   title: Oligopeptide Permease A5 Modulates Vertebrate Host-Specific Adaptation of
     Borrelia burgdorferi
