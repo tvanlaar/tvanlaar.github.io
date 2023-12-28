@@ -22,7 +22,7 @@ Teaching is my favorite part of my job! Here you can find information about some
   
 <b>Catalog Description</b>: Survey of experimental designs and investigative methods for graduate-level research.  Content will be tailored to research needs of enrolled students. Includes sampling schemes, modeling, ANOVA and multivariate analysis.  <br><br>
 <i>This course is co-taught with Dr. Michael Fleming</i>
-
+{% include section.html %}
 
 ## Previous Courses at Stanislaus State
 
