@@ -7,17 +7,11 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Teaching
 
-Teaching is my favorite part of my job! Here you can find information about the classes I teach.
+Teaching is my favorite part of my job! Here you can find information about some of the classes I teach. I believe in the capabilities of all of my students and I am excited to help them reach their potential.
 
 {% include section.html %}
 
-## Highlighted
-
-{% include citation.html lookup="doi:10.3389/fevo.2022.1027399" style="rich" %}
-
-{% include section.html %}
-
-## All
+## Spring 2024
 
 {% include search-box.html %}
 
