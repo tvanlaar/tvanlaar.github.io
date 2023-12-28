@@ -8,6 +8,7 @@ aliases:
   - Van Laar
   - Tricia Van Laar
   - Tricia A Van Laar
+  - Tricia A. Van Laar
   - T. A. Van Laar
   - T. Van Laar
 links:
@@ -20,7 +21,7 @@ Hi! I am Dr. Van Laar and this is my website.
 
 {% capture content %}
 
-{% include list.html data="citations" component="citation" filters="member: vanlaar" %}
+{% include list.html data="citations" component="citation" filters="author: Tricia A. Van Laar" %}
 
 {% endcapture %}
 
