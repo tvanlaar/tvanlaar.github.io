@@ -1,11 +1,11 @@
 ---
-title: Research
+title: Publications
 nav:
   order: 2
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Research
+# {% include icon.html icon="fa-solid fa-file-lines" %}Research
 
 Here, you'll find the complete list of papers written by Dr. Van Laar and her colleagues. Please let us know if you have any questions about the work!
 
