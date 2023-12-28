@@ -11,6 +11,17 @@ Teaching is my favorite part of my job! Here you can find information about some
 
 {% include section.html %}
 
-## Spring 2024
+## Current Courses
+
+{% include classes.html lookup="Spring 2024" style="rich" %}
+
+{% include section.html %}
+
+## All
+
+{% include search-box.html %}
+
+{% include search-info.html %}
 
 {% include list.html data="teaching" component="classes" style="rich" %}
+
