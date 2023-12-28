@@ -13,8 +13,4 @@ Teaching is my favorite part of my job! Here you can find information about some
 
 ## Spring 2024
 
-{% include search-box.html %}
-
-{% include search-info.html %}
-
 {% include list.html data="citations" component="citation" style="rich" %}
