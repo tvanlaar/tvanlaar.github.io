@@ -1,1 +1,7 @@
--title: BIOL 4810 - Bioinformatics
+- title: BIOL 4810 - Bioinformatics
+  catalog-description: Practical use and application of computational tools to extract, organize and interpret information from genetic sequence data. Introduction to problems of interest to bioinformaticians and the methods and tools used to address them. 
+  semester: Spring 2024
+
+- title: BIOL 5500 - Research Design and Data Analysis
+  catalog-description: Survey of experimental designs and investigative methods for graduate-level research.  Content will be tailored to research needs of enrolled students. Includes sampling schemes, modeling, ANOVA and multivariate analysis.  
+  semester: Spring 2024
