@@ -19,7 +19,6 @@ Teaching is my favorite part of my job! Here you can find information about some
 
 {% include section.html %}
 
-{% include section.html %}
 
 ## Previous Courses at Stanislaus State
 
