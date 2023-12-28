@@ -15,22 +15,17 @@ Teaching is my favorite part of my job! Here you can find information about some
 
 ### Bioinformatics (BIOL 4810) 
 
-Although this courses is taught every semester, I only teach it during the Fall terms.
-
-Summary: Evolution is the paradigm through which we understand Biology. This course will introduce students to evolutionary concepts that underlie the tremendous biodiversity present on Earth, and explore the ecological interactions that occur among individuals and species. Indoor and outdoor lab activities. Required for majors in the biological sciences. 
-
-- Taught every Fall semester
-- [Course catalog entry]([https://courses.unh.edu/timeroom/202110?tcc=&Title=&Campus=&Subject=&Delivery=&Instructor=easton+white&Level=All+Graduate&Credits=&Time=&CRN=](https://courses.unh.edu/timeroom/202310?tcc=&Title=&Campus=1&Subject=&Delivery=&Instructor=easton+white&Level=&Credits=&PTerm=&Time=&CRN=))
+<b>Catalog Description:</b> Practical use and application of computational tools to extract, organize and interpret information from genetic sequence data. Introduction to problems of interest to bioinformaticians and the methods and tools used to address them. 
 
 {% include section.html %}
 
 {% include section.html %}
 
-## All
+## Previous Courses at Stanislaus State
 
-{% include search-box.html %}
+Coming soon
+{% include section.html %}
 
-{% include search-info.html %}
+## Previous Courses at Fresno State
 
-{% include list.html data="teaching" component="classes" style="rich" %}
-
+Coming Soon
