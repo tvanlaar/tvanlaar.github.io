@@ -9,9 +9,6 @@ nav:
 
 Coming soon! Here you'll find details about the work we do in the lab.
 
-{% include tags.html tags="publication, resource, website" %}
-
-{% include search-info.html %}
 
 {% include section.html %}
 
