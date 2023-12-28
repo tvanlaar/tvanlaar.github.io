@@ -5,7 +5,7 @@ nav:
   tooltip: Published works
 ---
 
-# {% include icon.html icon="fa-solid fa-file-lines" %}Research
+# {% include icon.html icon="fa-solid fa-file-lines" %}Publications
 
 Here, you'll find the complete list of papers written by Dr. Van Laar and her colleagues. Please let us know if you have any questions about the work!
 
