@@ -15,3 +15,13 @@ links:
 ---
 
 Hi! I am Dr. Van Laar and this is my website.
+
+## All papers featuring Dr. Van Laar:
+
+{% capture content %}
+
+{% include list.html data="citations" component="citation" filters="member: vanlaar" %}
+
+{% endcapture %}
+
+{% include grid.html content=content %}
