@@ -1,14 +1,13 @@
 ---
-title: Projects
+title: Research
 nav:
   order: 3
   tooltip: Details about the lab's current work
 ---
 
-# {% include icon.html icon="fa-solid fa-wrench" %}Projects
+# {% include icon.html icon="fa-solid fa-bacteria" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Coming soon! Here you'll find details about the work we do in the lab.
 
 {% include tags.html tags="publication, resource, website" %}
 
