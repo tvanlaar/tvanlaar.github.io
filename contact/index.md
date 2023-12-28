@@ -35,7 +35,7 @@ Don't hesitate to reach out!
 {%
   include figure.html
   image="images/naraghi.jpg"
-  caption="Naraghi Hall of Science <br><font size="-2"><span>&copy; Brad Peatross<span></font>"
+  caption="Naraghi Hall of Science <br><span>&copy; Brad Peatross<span>"
 %}
 
 {% endcapture %}
