@@ -7,9 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-regular fa-envelope" %}Contact
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
-incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis
-nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Don't hesitate to reach out!
 
 {%
   include button.html
@@ -27,7 +25,7 @@ nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
   include button.html
   type="address"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps"
+  link="[https://www.google.com/maps](https://www.google.com/maps/place/Naraghi+Hall+of+Science,+1+University+Cir,+Turlock,+CA+95382/@37.5231622,-120.8577629,17z/data=!3m1!4b1!4m6!3m5!1s0x8091071c023abbb1:0x495623f43bcd21f3!8m2!3d37.5231622!4d-120.855188!16s%2Fg%2F11g_r_4x_?entry=ttu)"
 %}
 
 {% include section.html %}
