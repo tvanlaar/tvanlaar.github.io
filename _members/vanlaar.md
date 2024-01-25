@@ -17,8 +17,7 @@ links:
 
 Hi! I am Dr. Van Laar and this is my website.
 
-Check out <a href="https://github.com/tvanlaar/VanLaarCV/blob/492fb10a66cf13465c6216f5d387a4410d4995a9/VanLaarCV.pdf">My CV</a>
-
+Check out [Dr. Van Laar's CV as a pdf](https://tvanlaar.github.io/pdfs/VanLaarCV.pdf)
 ## All papers featuring Dr. Van Laar:
 
 {% capture content %}
