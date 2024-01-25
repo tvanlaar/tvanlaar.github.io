@@ -1,6 +1,6 @@
 ---
 name: Dr. Tricia Van Laar
-image: images/photo.jpg
+image: images/tricia.jpg
 role: pi
 aliases:
   - TA Van Laar
