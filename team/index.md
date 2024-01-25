@@ -22,7 +22,7 @@ The best part of science is getting to work with talented folks who bring new id
 
 {% capture content %}
 
-{% include figure.html image="images/tricia.jpg" %}
+{% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 {% include figure.html image="images/photo.jpg" %}
 
