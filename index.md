@@ -18,7 +18,7 @@ If you're not able to access one of our publications, please email Dr. Van Laar 
 
 {%
   include button.html
-  link="research"
+  link="publications"
   text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
@@ -30,7 +30,7 @@ If you're not able to access one of our publications, please email Dr. Van Laar 
 {%
   include feature.html
   image="https://www.frontiersin.org/files/Articles/1027399/fevo-10-1027399-HTML/image_m/fevo-10-1027399-g002.jpg"
-  link="research"
+  link="publications"
   title="Our Publications"
   text=text
 %}
