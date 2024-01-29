@@ -1,7 +1,7 @@
 ---
 title: Blog
 nav:
-  order: 5
+  order: 
   tooltip: News and other tidbits
 ---
 
