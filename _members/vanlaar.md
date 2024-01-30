@@ -15,7 +15,11 @@ links:
   orcid: 0000-0002-4654-8501
 ---
 
-Hi! I am Dr. Van Laar and this is my website.
+I am in my second year as a faculty member at Stan State and I am so excited to be a Warrior again! My research interests include birds, bioinformatics, and bacteria in any combination. I really enjoying teaching and helping students figure out new things about biology they may have never considered as an interest before.
+
+In my "free time", I love spending time with family. We enjoy traveling, birding, and relaxing together. We have 6 chickens (including a noisy boi), 3 cats, and a miniature dachshund named Barney.
+
+My proudest recent accomplishment is my awesome sourdough starter. I'm now taking name suggestions. :P
 
 Check out [Dr. Van Laar's CV as a pdf](https://tvanlaar.github.io/pdfs/VanLaarCV.pdf)
 ## All papers featuring Dr. Van Laar:
