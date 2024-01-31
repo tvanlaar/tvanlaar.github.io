@@ -1,6 +1,6 @@
 ---
 name: Jair Torres
-image: images/.jpg
+image: images/jair.jpg
 role: ms
 group: current
 links:
