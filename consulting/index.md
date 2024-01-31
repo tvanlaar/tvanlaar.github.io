@@ -1,7 +1,7 @@
 ---
 title: Consulting
 nav:
-  order: 5
+  order: 7
   tooltip: Academic Writing Assistance
 ---
 I am pleased to provide manuscript and grant editing. I also can assist with personal statements, cover letters/CVs, teaching and research philosophies, and diversity statements for academic job candidates. 
