@@ -2,6 +2,7 @@
 name: Dr. Tricia Van Laar
 image: images/tricia.jpg
 role: pi
+group: current
 aliases:
   - TA Van Laar
   - T Van Laar
@@ -25,12 +26,3 @@ In my "free time", I love spending time with family. We enjoy traveling, birding
 My proudest recent accomplishment is my awesome sourdough starter. I'm now taking name suggestions. :P
 
 Check out [Dr. Van Laar's CV as a pdf](https://tvanlaar.github.io/pdfs/VanLaarCV.pdf)
-## All papers featuring Dr. Van Laar:
-
-{% capture content %}
-
-{% include list.html data="citations" component="citation" filters="author: Tricia A. Van Laar" %}
-
-{% endcapture %}
-
-{% include grid.html content=content %}
