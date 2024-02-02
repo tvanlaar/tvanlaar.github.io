@@ -44,8 +44,8 @@ Don't hesitate to reach out!
 
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Lorem ipsum"
+  image="images/warrior.jpg"
+  caption="Warrior Nation"
 %}
 
 {% endcapture %}
