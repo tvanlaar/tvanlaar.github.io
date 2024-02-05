@@ -11,7 +11,7 @@ The best part of science is getting to work with talented folks who bring new id
 
 {% include section.html %}
 
-Current Members
+## Current Members
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ms" %}
