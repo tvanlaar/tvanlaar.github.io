@@ -112,7 +112,7 @@ linkedin:
   tooltip: LinkedIn
   link: https://www.linkedin.com/in/$VALUE
 
-tiktok
+tiktok:
   icon: fa-brands fa-tiktok
   text: TikTok
   tooltip: TikTok
