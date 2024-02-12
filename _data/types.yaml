@@ -118,6 +118,12 @@ tiktok:
   tooltip: TikTok
   link: https://www.tiktok.com/$VALUE
 
+eBird:
+  icon: fa-solid fa-crow
+  text: eBird
+  tooltip: eBird
+  link: https://ebird.org/profile/$VALUE
+
 # alerts
 
 tip:

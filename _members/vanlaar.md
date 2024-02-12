@@ -17,6 +17,7 @@ links:
   linkedin: triciavanlaar
   youtube: channel/UCh6H16v5IdvHHjzp3eFrtoA
   email: tvanlaar@csustan.edu
+  eBird: Mjc0MTg1
 ---
 
 I am in my second year as a faculty member at Stan State and I am so excited to be a Warrior again! My research interests include birds, bioinformatics, and bacteria in any combination. I really enjoying teaching and helping students figure out new things about biology they may have never considered as an interest before.
