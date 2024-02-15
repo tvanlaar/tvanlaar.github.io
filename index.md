@@ -52,7 +52,7 @@ Coming soon: Learn more about the research we're doing in the lab.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/siskin.jpg"
   link="projects"
   title="Our Projects"
   flip=true
@@ -77,7 +77,7 @@ The people who make the magic happen.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/barney.jpg"
   link="team"
   title="Our Team"
   text=text
