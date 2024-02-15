@@ -11,12 +11,12 @@ Here you'll find details about the work we do in the lab.
 
 {% include section.html %}
 
-## Featured
+## Current
 
 {% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## More
+## Completed
 
 {% include list.html component="card" data="projects" filters="group: " style="small" %}
