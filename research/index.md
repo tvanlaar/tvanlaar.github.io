@@ -7,17 +7,17 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-bacteria" %}Research
 
-Coming soon! Here you'll find details about the work we do in the lab.
+Here you'll find details about the work we do in the lab.
 
 
 {% include section.html %}
 
-## Featured
+## Current
 
-{% include list.html component="card" data="projects" filters="group: featured" %}
+{% include list.html component="card" data="projects" filters="group: current" %}
 
 {% include section.html %}
 
-## More
+## Completed
 
-{% include list.html component="card" data="projects" filters="group: " style="small" %}
+{% include list.html component="card" data="projects" filters="group: completed" style="small" %}
