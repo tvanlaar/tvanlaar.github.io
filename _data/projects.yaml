@@ -1,9 +1,0 @@
-- title: Bird Feeders in the City
-  group: featured
-  image: images/siskin.jpg
-  link: https://greenelab.github.io/preprint-similarity-search/
-  description: Preprint Similarity Search uses a machine learning model trained on 1.7 million PubMed Central open access documents to find similar papers and journals based on the textual content of your bioRxiv or medRxiv preprint. These results can be used as a starting point when searching for a place to publish your paper.
-  repo: greenelab/preprint-similarity-search
-
-  
-
