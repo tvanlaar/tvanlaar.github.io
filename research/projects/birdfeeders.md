@@ -5,7 +5,7 @@ nav:
   tooltip: Details about the lab's current work
 ---
 
-# {% include icon.html icon=fa-brands fa-earlybirds %}Bird Feeders in the City
+# {% include icon.html icon="fa-brands fa-earlybirds" %}Bird Feeders in the City
 
 In January 2021, I discovered a deceased Pine Siskin in my backyard, a small songbird common to central California. At the time, there was an outbreak of Salmonella affecting this species and causing illness in humans, primarily along the U.S. West Coast. Concerned that the bird I found might be carrying the bacteria, I collected a sample and confirmed that it was indeed infected with <i>Salmonella enterica</i> serovar Typhimurium, the same strain causing illness in birds and humans.
 
