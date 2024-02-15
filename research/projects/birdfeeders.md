@@ -1,8 +1,5 @@
 ---
-title: Research
-nav:
-  order: 3
-  tooltip: Details about the lab's current work
+
 ---
 
 # {% include icon.html icon="fa-brands fa-earlybirds" %}Bird Feeders in the City
