@@ -5,9 +5,10 @@
   image: images/siskin.jpg
   link: research/projects/birdfeeders.html
   description: An investigation of how immunogenetics and the gut microbiome contribute to differential susceptibility to <i>Salmonella</i> infection.
-  repo: greenelab/lab-website-template
   tags:
-    - resource
+    - microbiome
+    - birds
+    - Salmonella
 
 - title: Cool Tutorial
   subtitle: a subtitle
