@@ -1,9 +1,9 @@
 
-- title: Cool Package
+- title: Bird Feeders in the City
   subtitle: a subtitle
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
+  image: images/siskin.jpg
+  link: research/projects/birdfeeders.html
   description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   repo: greenelab/lab-website-template
   tags:
