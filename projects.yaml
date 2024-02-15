@@ -1,8 +1,4 @@
 <<<<<<< HEAD
-
-=======
-<<<<<<< HEAD
->>>>>>> e33e6ac12ba2f8dcabce727ba9865cd946961336
 - title: Cool Dataset
   subtitle: a subtitle
   group: featured
@@ -12,8 +8,6 @@
   repo: greenelab/lab-website-template
   tags:
     - resource
-<<<<<<< HEAD
-=======
 =======
 - title: Bird Feeders in the City
   group: featured
@@ -22,7 +16,6 @@
   description: Preprint Similarity Search uses a machine learning model trained on 1.7 million PubMed Central open access documents to find similar papers and journals based on the textual content of your bioRxiv or medRxiv preprint. These results can be used as a starting point when searching for a place to publish your paper.
   repo: greenelab/preprint-similarity-search
 >>>>>>> 2c3af8ac1b018a0e62760c0922fd286a6b6be701
->>>>>>> e33e6ac12ba2f8dcabce727ba9865cd946961336
 
 - title: Cool Package
   subtitle: a subtitle
