@@ -9,15 +9,14 @@ nav:
 
 Here you'll find details about the work we do in the lab.
 
+{% include section.html %}
+
+## Featured
+
+{% include list.html component="card" data="projects" filters="group: featured" %}
 
 {% include section.html %}
 
-## Current
+## More
 
-{% include list.html component="card" data="projects" filters="group: current" %}
-
-{% include section.html %}
-
-## Completed
-
-{% include list.html component="card" data="projects" filters="group: completed" style="small" %}
+{% include list.html component="card" data="projects" filters="group: " style="small" %}
