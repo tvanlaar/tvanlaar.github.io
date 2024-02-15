@@ -1,17 +1,3 @@
-- title: Bird Feeders in the City
-  subtitle: the effect of urbanization on ecological immunology and microbiology in cardueline finches
-  group: featured
-  image: images/siskin.jpg
-  link: research/projects/birdfeeders.html
-  description: Investigating how the microbiome and immune system contribute to differential susceptibility to <i>Salmonella enterica</i> serovar Typhimurium infection
-  
-  - title: Adage
-  group: featured
-  image: images/tools/adage.jpg
-  link: https://adage.greenelab.com/
-  description: Adage helps you explore gene expression data and discover new insights from machine learning models. See how genes relate to each other, other genes, and how they are represented in machine learning signatures. View the activities of samples as a colored heatmap, and cluster them on the fly. Explore the genes that contribute to signatures, the experiments in which they vary the most, and the pathways they significantly overlap with.
-  repo: greenelab/adage-frontend
-
 - title: Preprint Similarity Search
   group: featured
   image: images/tools/preprint-similarity-search.png
