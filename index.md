@@ -37,7 +37,7 @@ If you're not able to access one of our publications, please email Dr. Van Laar 
 
 {% capture text %}
 
-Coming soon: Learn more about the research we're doing in the lab.
+Learn more about the research we're doing in the lab.
 
 {%
   include button.html
