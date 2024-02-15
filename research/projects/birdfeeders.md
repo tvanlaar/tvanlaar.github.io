@@ -4,7 +4,7 @@
 
 # {% include icon.html icon="fa-brands fa-earlybirds" %}Bird Feeders in the City
 
-In January 2021, I discovered a deceased Pine Siskin (<i>Spinus pinus</i>), a small songbird common to central California, in my backyard. At the time, there was an outbreak of <i>Salmonella</> affecting this species and causing illness in humans, primarily along the U.S. West Coast. After consulting with my colleague from Fresno State, <a href="https://www.sladelab.com/">Dr. Joel Slade</a>, I collected a sample and confirmed that it was indeed infected with <i>Salmonella enterica</i> serovar Typhimurium, the same strain causing illness in birds and humans.
+In January 2021, I discovered a deceased Pine Siskin (<i>Spinus pinus</i>), a small songbird common to central California, in my backyard. At the time, there was an outbreak of <i>Salmonella</i> affecting this species and causing illness in humans, primarily along the U.S. West Coast. After consulting with my colleague from Fresno State, <a href="https://www.sladelab.com/">Dr. Joel Slade</a>, I collected a sample and confirmed that it was indeed infected with <i>Salmonella enterica</i> serovar Typhimurium, the same strain causing illness in birds and humans.
 
 In collaboration with Dr. Slade, we sequenced the genome of the bacterium and <a href="https://doi.org/gs9qsq">published our findings</a> in 2022. As part of our ongoing research, we set out to understand why some songbird species, such as the Lesser Goldfinch and American Goldfinch (both members of the <i>Spinus</> genus), and the more distantly related House Finch (<i>Haemorhous mexicanus</i>), were not succumbing to the infection, despite the fact that the Pine Siskin was.
 
