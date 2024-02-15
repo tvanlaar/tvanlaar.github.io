@@ -4,7 +4,7 @@
   group: featured
   image: images/siskin.jpg
   link: research/projects/birdfeeders.html
-  description: Lorem ipsum _dolor sit amet_, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+  description: An investigation of how immunogenetics and the gut microbiome contribute to differential susceptibility to <i>Salmonella</i> infection.
   repo: greenelab/lab-website-template
   tags:
     - resource
