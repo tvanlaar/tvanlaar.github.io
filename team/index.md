@@ -15,6 +15,7 @@ The best part of science is getting to work with talented folks who bring new id
 
 {% include list.html data="members" component="portrait" filters="role: pi" %}
 {% include list.html data="members" component="portrait" filters="role: ms" %}
+{% include list.html data="members" component="portrait" filters="role: undergrad" %}
 {% include list.html data="members" component="portrait" filters="role: mascot" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
