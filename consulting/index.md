@@ -1,5 +1,5 @@
 ---
-title: "Academic Consulting Services - Manuscript, Grant, and Job Application Editing"
+title: "Consulting"
 description: "Expert academic consulting services including manuscript and grant editing, personal statement and CV assistance, and comprehensive support for academic job candidates. Get personalized help with your academic writing needs."
 nav:
   order: 7
