@@ -1,6 +1,6 @@
 ---
 title: "Consulting"
-description: "Expert academic consulting services including manuscript and grant editing, personal statement and CV assistance, and comprehensive support for academic job candidates. Get personalized help with your academic writing needs. Assistance in bioinformatics, including genome assembly, annotation, microbiome, and transcriptome analysis."
+description: "Expert academic consulting services including manuscript and grant editing, personal statement and CV assistance, and comprehensive support for academic job candidates. Get personalized help with your academic writing needs including, personal statements, cover letters and CVs, teaching and research philosphies, and diversity statements. Assistance in bioinformatics, including genome assembly, annotation, microbiome, and transcriptome analysis."
 nav:
   order: 7
   tooltip: Academic Writing and Bioinformatics Assistance
