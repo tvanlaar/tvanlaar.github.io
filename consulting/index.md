@@ -6,12 +6,12 @@ nav:
   tooltip: Academic Writing and Bioinformatics Assistance
 ---
 
-I am pleased to provide a wide range of consulting services tailored to academics and researchers. My offerings include **manuscript and grant editing**, assistance with **personal statements**, **cover letters/CVs**, **teaching and research philosophies**, and **diversity statements** for academic job candidates, as well as comprehensive **bioinformatics consulting services**.
+I am pleased to provide a wide range of consulting services tailored to academics and researchers. My offerings include **academic writing services** and **bioinformatics consulting services**.
 
 ## How I Can Help
 
 ### Academic Writing Services
-With a keen eye for detail and extensive experience in academic writing, I offer tailored assistance to ensure your documents stand out. Whether you're applying for faculty positions, seeking funding, or aiming to enhance your academic profile, my services are designed to elevate your application.
+With a keen eye for detail and extensive experience in academic writing, I offer **manuscript and grant editing**, assistance with **personal statements**, **cover letters/CVs**, **teaching and research philosophies**, and **diversity statements** for academic job candidates. Whether you're applying for faculty positions, seeking funding, or aiming to enhance your academic profile, I am ready to help.
 
 ### Bioinformatics Consulting
 In addition to academic writing, I specialize in **bioinformatics consulting**, offering expertise in **genome assembly and annotation (especially of bacteria)**, **microbiome analysis**, and **transcriptome analysis**. You can visit my <a href="https://tvanlaar.github.io/publications/">publications</a> for some examples of my bioinformatics work.
