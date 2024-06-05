@@ -62,6 +62,29 @@ Learn more about the research we're doing in the lab.
 
 {% capture text %}
 
+Exciting news about the lab!
+
+{%
+  include button.html
+  link="news"
+  text="Read the news"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
+{% endcapture %}
+
+{%
+  include feature.html
+  image="images/news.jpg"
+  link="news"
+  title="News"
+  text=text
+%}
+
+{% capture text %}
+
 The people who make the magic happen.
 
 {%
