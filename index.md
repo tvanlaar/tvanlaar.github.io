@@ -104,4 +104,5 @@ The people who make the magic happen.
   link="team"
   title="Our Team"
   text=text
+  flip=true
 %}
