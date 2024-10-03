@@ -53,8 +53,8 @@
     - antibiotic resistance
 
 - id: doi:10.1093/jme/tjy213
-  title: '<i>Borrelia parkeri</i> in <i>Ornithodoros parkeri</i> (Ixodida: Argasidae)
-    Collected Using Compact Dry Ice Traps in Madera County, California'
+  title: <i>Borrelia parkeri</i> in <i>Ornithodoros parkeri</i> (Ixodida: Argasidae)
+    Collected Using Compact Dry Ice Traps in Madera County, California
   image: images/ticktrap.png
   tags:
     - Borrelia parkeri
@@ -97,9 +97,8 @@
     - antibiotic resistance
 
 - id: doi:10.1128/iai.00521-13
-  title: "MrkD\n            <sub>1P</sub>\n            from <i>Klebsiella pneumoniae</i>\
-    \ Strain IA565 Allows for Coexistence with <i>Pseudomonas aeruginosa</i> and Protection\
-    \ from Protease-Mediated Biofilm Detachment"
+  title: MrkD<sub>1P</sub> from <i>Klebsiella pneumoniae</i> Strain IA565 Allows for Coexistence with <i>Pseudomonas aeruginosa</i> and Protection\
+   from Protease-Mediated Biofilm Detachment
   image: images/ci.png
   tags: 
     - Klebsiella pneumoniae
