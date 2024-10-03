@@ -21,7 +21,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/mra.00576-24
-  title: 16S rRNA gene sequencing of microbiota from the preen oil and cloaca of chipping sparrows (<i>Spizella passerina</i>)
+  title: "16S rRNA gene sequencing of microbiota from the preen oil and cloaca of\
+    \ chipping sparrows (\n            <i>Spizella passerina</i>\n            )"
   authors:
   - Tricia A. Van Laar
   - Jonathan M. Greenberg
