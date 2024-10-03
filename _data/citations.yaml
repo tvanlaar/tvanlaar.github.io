@@ -15,14 +15,14 @@
   - Ruel Celeste
   - Katy J. Tarrant
   publisher: Journal of Applied Poultry Research
-  date: '2024-09-01'
+  date: '2024-09-24'
   link: https://doi.org/g5gxfh
   orcid: 0000-0002-4654-8501
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/mra.00576-24
-  title: "16S rRNA gene sequencing of microbiota from the preen oil and cloaca of\
-    \ chipping sparrows (\n            <i>Spizella passerina</i>\n            )"
+  title: 16S rRNA gene sequencing of microbiota from the preen oil and cloaca of
+    chipping sparrows (<i>Spizella passerina</i>)
   authors:
   - Tricia A. Van Laar
   - Jonathan M. Greenberg
@@ -215,9 +215,9 @@
   - vector-borne disease
   - Lyme disease
 - id: doi:10.1002/mbo3.427
-  title: "Global transcriptome responses including small RNAs during mixed\u2010species\
-    \ interactions with methicillin\u2010resistant <i>Staphylococcus aureus</i> and\
-    \ <i>Pseudomonas aeruginosa</i>"
+  title: Global transcriptome responses including small RNAs during mixed species
+    interactions with methicillin resistant <i>Staphylococcus aureus</i> and
+    <i>Pseudomonas aeruginosa</i>
   authors:
   - Christine L. Miller
   - Tricia A. Van Laar
@@ -255,9 +255,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/genomea.00807-16
-  title: "Genome Sequence of a Multidrug-Resistant Strain of\n            <i>Bacillus\
-    \ pumilus</i>\n            , CB01, Isolated from the Feces of an American Crow,\n\
-    \            <i>Corvus brachyrhynchos</i>"
+  title: Genome Sequence of a Multidrug-Resistant Strain of <i>Bacillus pumilus</i>, CB01, Isolated from the Feces of an American Crow,
+    <i>Corvus brachyrhynchos</i>
   authors:
   - R. Lee Nelson
   - Michael A. Castro
@@ -333,9 +332,9 @@
   - antibiotic resistance
   - whole genome sequencing
 - id: doi:10.1128/iai.00521-13
-  title: "MrkD\n            <sub>1P</sub>\n            from <i>Klebsiella pneumoniae</i>\
-    \ Strain IA565 Allows for Coexistence with <i>Pseudomonas aeruginosa</i> and Protection\
-    \ from Protease-Mediated Biofilm Detachment"
+  title: MrkD<sub>1P</sub> from <i>Klebsiella pneumoniae</i>
+    Strain IA565 Allows for Coexistence with <i>Pseudomonas aeruginosa</i> and Protection
+    from Protease-Mediated Biofilm Detachment
   authors:
   - Brandon M. Childers
   - Tricia A. Van Laar
@@ -375,7 +374,7 @@
   - biochemistry
 - id: doi:10.1128/iai.05234-11
   title: Oligopeptide Permease A5 Modulates Vertebrate Host-Specific Adaptation of
-    Borrelia burgdorferi
+    <i>Borrelia burgdorferi</i>
   authors:
   - B. V. Subba Raju
   - Maria D. Esteve-Gassent
