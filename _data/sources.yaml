@@ -115,8 +115,8 @@
     - whole genome sequencing
 
 - id: doi:10.1128/msphere.00155-18
-  title: "<i>Pseudomonas aeruginosa\n            gshA</i>\n            Mutant Is Defective\
-    \ in Biofilm Formation, Swarming, and Pyocyanin Production"
+  title: Pseudomonas aeruginosa <i>gshA</i> Mutant Is Defective
+    in Biofilm Formation, Swarming, and Pyocyanin Production
   image: images/cross.png
   tags: 
     - glutathione
