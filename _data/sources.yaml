@@ -6,7 +6,7 @@
 
 - id: doi:10.1128/mra.00576-24
   title: 16S rRNA gene sequencing of microbiota from the preen oil and cloaca of
-    chipping sparrows (<i>Spizella passerina</i>)
+   chipping sparrows (<i>Spizella passerina</i>)
   image: https://journals.asm.org/cms/10.1128/mra.00576-24/asset/5cc1b1b4-daf9-4080-bcba-b55f29a50623/assets/images/large/mra.00576-24.f001.jpg
   tags:
     - microbiome
@@ -53,8 +53,8 @@
     - antibiotic resistance
 
 - id: doi:10.1093/jme/tjy213
-  title: <i>Borrelia parkeri</i> in <i>Ornithodoros parkeri</i> (Ixodida: Argasidae)
-    Collected Using Compact Dry Ice Traps in Madera County, California
+  title: '<i>Borrelia parkeri</i> in <i>Ornithodoros parkeri</i> (Ixodida: Argasidae)
+    Collected Using Compact Dry Ice Traps in Madera County, California'
   image: images/ticktrap.png
   tags:
     - Borrelia parkeri
@@ -97,9 +97,9 @@
     - antibiotic resistance
 
 - id: doi:10.1128/iai.00521-13
-  title: MrkD<sub>1P</sub> from <i>Klebsiella pneumoniae</i> Strain IA565 Allows 
-    for Coexistence with <i>Pseudomonas aeruginosa</i> and Protection
-    from Protease-Mediated Biofilm Detachment
+  title: "MrkD\n            <sub>1P</sub>\n            from <i>Klebsiella pneumoniae</i>\
+    \ Strain IA565 Allows for Coexistence with <i>Pseudomonas aeruginosa</i> and Protection\
+    \ from Protease-Mediated Biofilm Detachment"
   image: images/ci.png
   tags: 
     - Klebsiella pneumoniae
@@ -115,8 +115,8 @@
     - whole genome sequencing
 
 - id: doi:10.1128/msphere.00155-18
-  title: Pseudomonas aeruginosa <i>gshA</i> Mutant Is Defective
-    in Biofilm Formation, Swarming, and Pyocyanin Production
+  title: "<i>Pseudomonas aeruginosa\n            gshA</i>\n            Mutant Is Defective\
+    \ in Biofilm Formation, Swarming, and Pyocyanin Production"
   image: images/cross.png
   tags: 
     - glutathione
