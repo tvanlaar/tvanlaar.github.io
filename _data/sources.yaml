@@ -97,7 +97,8 @@
     - antibiotic resistance
 
 - id: doi:10.1128/iai.00521-13
-  title: MrkD<sub>1P</sub> from <i>Klebsiella pneumoniae</i> Strain IA565 Allows for Coexistence with <i>Pseudomonas aeruginosa</i> and Protection\
+  title: MrkD<sub>1P</sub> from <i>Klebsiella pneumoniae</i> Strain IA565 Allows 
+   for Coexistence with <i>Pseudomonas aeruginosa</i> and Protection
    from Protease-Mediated Biofilm Detachment
   image: images/ci.png
   tags: 
