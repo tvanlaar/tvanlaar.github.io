@@ -1,3 +1,9 @@
+- id:
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1056617124000886-gr3.jpg
+  tags:
+    - microbiome
+    - poultry
+    
 - id: doi:10.3389/fevo.2022.1027399
   image: https://www.frontiersin.org/files/Articles/1027399/fevo-10-1027399-HTML/image_m/fevo-10-1027399-g002.jpg
   tags:
