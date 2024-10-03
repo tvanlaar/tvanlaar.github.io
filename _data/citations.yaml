@@ -18,8 +18,12 @@
   date: '2024-09-01'
   link: https://doi.org/g5gxfh
   orcid: 0000-0002-4654-8501
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S1056617124000886-gr3.jpg
+  tags:
+  - microbiome
+  - poultry
 - id: doi:10.1128/mra.00576-24
   title: "16S rRNA gene sequencing of microbiota from the preen oil and cloaca of\
     \ chipping sparrows (\n            <i>Spizella passerina</i>\n            )"
