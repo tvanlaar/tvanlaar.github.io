@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/mra.00576-24
+  title: 16S rRNA gene sequencing of microbiota from the preen oil and cloaca of chipping
+    sparrows (<i>Spizella passerina</i>)
+  authors:
+  - Tricia A. Van Laar
+  - Jonathan M. Greenberg
+  - Kevin R. Theis
+  - Danielle J. Whittaker
+  - Joel W. G. Slade
+  publisher: Microbiology Resource Announcements
+  date: '2024-08-30'
+  link: https://doi.org/g5gxfp
+  orcid: 0000-0002-4654-8501
+  plugin: sources.py
+  file: sources.yaml
+  image: https://journals.asm.org/cms/10.1128/mra.00576-24/asset/5cc1b1b4-daf9-4080-bcba-b55f29a50623/assets/images/large/mra.00576-24.f001.jpg
+  tags:
+  - microbiome
+  - ornithology
+  - chipping sparrow
 - id: doi:10.1016/j.japr.2024.100490
   title: Evaluating microbiome patterns, microbial species, and leg health associated
     with reused litter in a commercial broiler barn
@@ -24,26 +44,6 @@
   tags:
   - microbiome
   - poultry
-- id: doi:10.1128/mra.00576-24
-  title: 16S rRNA gene sequencing of microbiota from the preen oil and cloaca of chipping
-    sparrows (<i>Spizella passerina</i>)
-  authors:
-  - Tricia A. Van Laar
-  - Jonathan M. Greenberg
-  - Kevin R. Theis
-  - Danielle J. Whittaker
-  - Joel W. G. Slade
-  publisher: Microbiology Resource Announcements
-  date: '2024-08-30'
-  link: https://doi.org/g5gxfp
-  orcid: 0000-0002-4654-8501
-  plugin: sources.py
-  file: sources.yaml
-  image: https://journals.asm.org/cms/10.1128/mra.00576-24/asset/5cc1b1b4-daf9-4080-bcba-b55f29a50623/assets/images/large/mra.00576-24.f001.jpg
-  tags:
-  - microbiome
-  - ornithology
-  - chipping sparrow
 - id: doi:10.3389/fevo.2022.1027399
   title: Effects of short-term experimental manipulation of captive social environment
     on uropygial gland microbiome and preen oil volatile composition
