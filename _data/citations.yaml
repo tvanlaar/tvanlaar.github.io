@@ -33,6 +33,11 @@
   orcid: 0000-0002-4654-8501
   plugin: orcid.py
   file: orcid.yaml
+  image: images/immunity.png
+  tags:
+  - immunity
+  - Salmonella
+  - finches
 - id: doi:10.1128/mra.00576-24
   title: 16S rRNA gene sequencing of microbiota from the preen oil and cloaca of chipping
     sparrows (<i>Spizella passerina</i>)
