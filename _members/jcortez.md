@@ -2,7 +2,7 @@
 name: Jair Torres Cortez
 image: images/jair.jpg
 role: ms
-group: current
+group: alum
 links:
   linkedin: jair-torres-454a91229
   website: https://aviangenomics.github.io/#

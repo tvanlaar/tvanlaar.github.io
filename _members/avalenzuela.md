@@ -2,7 +2,7 @@
 name: Alejandra Valenzuela
 image: images/alejandra.png
 role: ms
-group: current
+group: alum
 links:
   linkedin: alejandra-valenzuela-71a593228
   instagram: _valenzuelajanaa
