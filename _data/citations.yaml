@@ -112,7 +112,7 @@
   orcid: 0000-0002-4654-8501
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.asm.org/cms/10.1128/mra.00576-24/asset/5cc1b1b4-daf9-4080-bcba-b55f29a50623/assets/images/large/mra.00576-24.f001.jpg
+  image: images/chsp.jpg
   tags:
   - microbiome
   - ornithology
