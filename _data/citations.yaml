@@ -32,7 +32,7 @@
   orcid: 0000-0002-4654-8501
   plugin: sources.py
   file: sources.yaml
-  image: https://academic.oup.com/view-large/figure/538389000/esaf076f1.tif
+  image: images/jairfig2.png
   tags:
   - genomics
   - pine siskin
