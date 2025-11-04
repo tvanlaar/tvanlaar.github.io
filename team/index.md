@@ -12,16 +12,16 @@ The best part of science is getting to work with talented folks who bring new id
 {% include section.html %}
 
 {% assign current = site.data.members | where: "group", "current" %}
-{% assign current_pi = current | where: "role", "pi" %}
-{% assign current_ms = current | where: "role", "ms" %}
-{% assign current_undergrad = current | where: "role", "undergrad" %}
-{% assign current_mascot = current | where: "role", "mascot" %}
+{% assign current_pi = current | where_exp: "d", "d.role and d.role | downcase == 'pi'" %}
+{% assign current_ms = current | where_exp: "d", "d.role and d.role | downcase == 'ms'" %}
+{% assign current_undergrad = current | where_exp: "d", "d.role and d.role | downcase == 'undergrad'" %}
+{% assign current_mascot = current | where_exp: "d", "d.role and d.role | downcase == 'mascot'" %}
 
 ## Current Members
-{% include list.html records=current_pi component="portrait" %}
-{% include list.html records=current_ms component="portrait" %}
-{% include list.html records=current_undergrad component="portrait" %}
-{% include list.html records=current_mascot component="portrait" %}
+{% include list_records.html records=current_pi component="portrait" %}
+{% include list_records.html records=current_ms component="portrait" %}
+{% include list_records.html records=current_undergrad component="portrait" %}
+{% include list_records.html records=current_mascot component="portrait" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
 
@@ -29,9 +29,7 @@ The best part of science is getting to work with talented folks who bring new id
 
 ## Alumni
 {% capture content %}
-
-{% include list.html  data="members"  component="portrait"  filters="group: alum" %}
-
+{% include list.html data="members" component="portrait" filters="group: alum" %}
 {% endcapture %}
-
 {% include grid.html style="square" content=content %}
+
