@@ -1,27 +1,84 @@
 {% assign emptyarray = "" | split: "," %}
-{% assign data = site.data[include.data]
-  | default: site[include.data]
-  | default: emptyarray
-  | data_filter: include.filters
-%}
 
-{% assign years = data
-  | group_by_exp: "d", "d.date | date: '%Y'"
-  | sort: "name"
-  | reverse
-%}
+{%- comment -%}
+Base dataset: prefer `records` (pre-filtered array) if provided,
+else load from site data or collections by `data` key.
+{%- endcomment -%}
+{% if include.records %}
+  {% assign base = include.records %}
+{% else %}
+  {% assign base = site.data[include.data]
+    | default: site[include.data]
+    | default: emptyarray %}
+{% endif %}
 
-{% for year in years %}
-  {% assign data = year.items %}
+{%- comment -%}
+Apply optional filters via your custom `data_filter`.
+{%- endcomment -%}
+{% assign data = base | data_filter: include.filters %}
 
-  {% if years.size > 1 %}
-    {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
-    {% assign data = data | sort: "date" | reverse %}
-  {% endif %}
+{%- comment -%}
+If any items have a `date`, group by year; otherwise render flat.
+{%- endcomment -%}
+{% assign has_dates = data | where_exp: "d", "d.date" %}
+
+{% if has_dates.size > 0 %}
+  {% assign years = data
+    | group_by_exp: "d", "d.date | date: '%Y'"
+    | sort: "name"
+    | reverse %}
+
+  {% for year in years %}
+    {% assign items = year.items %}
+
+    {% if years.size > 1 %}
+      {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
+      {% assign items = items | sort: "date" | reverse %}
+    {% endif %}
+
+    {% for d in items %}
+      {% assign style = d.style | default: include.style %}
+      {%
+        include {{ include.component | append: ".html" }}
+        author=d.author
+        authors=d.authors
+        buttons=d.buttons
+        caption=d.caption
+        catalog-description=d.catalog-description
+        content=d.content
+        date=d.date
+        description=d.description
+        excerpt=d.excerpt
+        height=d.height
+        icon=d.icon
+        id=d.id
+        image=d.image
+        last_modified_at=d.last_modified_at
+        link=d.link
+        lookup=d.lookup
+        name=d.name
+        publisher=d.publisher
+        repo=d.repo
+        role=d.role
+        semester=d.semester
+        slug=d.slug
+        style=style
+        subtitle=d.subtitle
+        tags=d.tags
+        text=d.text
+        title=d.title
+        tooltip=d.tooltip
+        type=d.type
+        url=d.url
+        width=d.width
+      %}
+    {% endfor %}
+  {% endfor %}
+
+{% else %}
 
   {% for d in data %}
     {% assign style = d.style | default: include.style %}
-
     {%
       include {{ include.component | append: ".html" }}
       author=d.author
@@ -57,4 +114,5 @@
       width=d.width
     %}
   {% endfor %}
-{% endfor %}
+
+{% endif %}
