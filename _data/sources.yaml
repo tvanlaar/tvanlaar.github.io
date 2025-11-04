@@ -1,3 +1,10 @@
+- id: 
+  image: https://academic.oup.com/view-large/figure/538389000/esaf076f1.tif
+  tags:
+    - genomics
+    - pine siskin
+    - ornithology
+
 - id: doi:10.1016/j.japr.2024.100490
   image: https://ars.els-cdn.com/content/image/1-s2.0-S1056617124000886-gr3.jpg
   tags:
