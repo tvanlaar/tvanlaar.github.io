@@ -13,7 +13,7 @@ Here, you'll find the complete list of papers written by Dr. Van Laar and her co
 
 ## Highlighted
 
-{% include citation.html lookup="doi:10.1016/j.japr.2024.100490" style="rich" %}
+{% include citation.html lookup="doi:10.1093/jhered/esaf076" style="rich" %}
 
 {% include section.html %}
 
