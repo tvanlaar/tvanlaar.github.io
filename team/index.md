@@ -14,15 +14,12 @@ The best part of science is getting to work with talented folks who bring new id
 {% assign current_members = site.data.members | where: "group", "current" %}
 
 ## Current Members
-
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ms" %}
-{% include list.html data="members" component="portrait" filters="role: undergrad" %}
-{% include list.html data="members" component="portrait" filters="role: mascot" %}
+{% include list.html data=current_members component="portrait" filters="role: pi" %}
+{% include list.html data=current_members component="portrait" filters="role: ms" %}
+{% include list.html data=current_members component="portrait" filters="role: undergrad" %}
+{% include list.html data=current_members component="portrait" filters="role: mascot" %}
 
 {% include section.html background="images/background.jpg" dark=true %}
-
-
 
 {% include section.html %}
 
