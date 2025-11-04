@@ -31,8 +31,13 @@
   date: '2025-10-07'
   link: https://doi.org/g9827p
   orcid: 0000-0002-4654-8501
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: https://academic.oup.com/view-large/figure/538389000/esaf076f1.tif
+  tags:
+  - genomics
+  - pine siskin
+  - ornithology
 - id: doi:10.1128/mra.01296-24
   title: "Draft genome sequence of\n            <i>Dolosicoccus paucivorans</i>\n\
     \            DSM 15742\n            <sup>T</sup>\n            isolated from a\
