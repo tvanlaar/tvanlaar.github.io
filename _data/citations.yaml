@@ -21,8 +21,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/jhered/esaf076
-  title: "Reference genome of an irruptive migrant, the pine siskin (\n          \
-    \          <i>Spinus pinus</i>\n                    )"
+  title: Reference genome of an irruptive migrant, the pine siskin (<i>Spinus pinus</i>)"
   authors:
   - Jair Cortez
   - Joel W G Slade
