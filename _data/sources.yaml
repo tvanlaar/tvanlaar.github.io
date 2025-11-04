@@ -1,3 +1,9 @@
+- id:
+  image: "https://journals.asm.org/cms/10.1128/mra.01296-24/asset/9d0e4bd8-6944-4553-9ca9-210c7365c9eb/assets/images/large/mra.01296-24.f001.jpg"
+  tags: 
+    - genome sequencing
+    - microbiology
+
 - id: doi:10.1093/icb/icaf005
   image: "images/lindsey2.jpg"
   tags:
@@ -9,6 +15,7 @@
   image: "https://journals.asm.org/cms/10.1128/mra.00842-25/asset/82cf8cd0-f273-470b-ba63-6e4346c770b1/assets/images/large/mra.00842-25.f001.jpg"
   tags:
     - genome sequencing
+    - microbiology
 
 - id: doi:10.1093/jhered/esaf076
   title: Reference genome of an irruptive migrant, the pine siskin (<i>Spinus pinus</i>)
