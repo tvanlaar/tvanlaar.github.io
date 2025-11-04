@@ -1,3 +1,9 @@
+- id: doi:10.1128/mra.01293-24
+  image: "images/tf.png"
+  tags: 
+    - genome sequencing
+    - microbiology
+    
 - id: doi:10.1128/mra.01296-24
   image: "images/dp.jpg"
   tags: 
