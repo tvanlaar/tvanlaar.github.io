@@ -60,7 +60,7 @@
   orcid: 0000-0002-4654-8501
   plugin: sources.py
   file: sources.yaml
-  image: https://journals.asm.org/cms/10.1128/mra.01296-24/asset/9d0e4bd8-6944-4553-9ca9-210c7365c9eb/assets/images/large/mra.01296-24.f001.jpg
+  image: images/dp.jpg
   tags:
   - genome sequencing
   - microbiology
