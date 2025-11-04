@@ -11,14 +11,14 @@ The best part of science is getting to work with talented folks who bring new id
 
 {% include section.html %}
 
-{%- comment -%} Use the MEMBERS COLLECTION, not data {%- endcomment -%}
+{%- comment -%} Use the MEMBERS COLLECTION, not site.data {%- endcomment -%}
 {% assign current = site.members | where: "group", "current" %}
 
-{%- comment -%} Role buckets (case-insensitive, in case of mixed casing) {%- endcomment -%}
-{% assign current_pi         = current | where_exp: "d", "d.role and d.role | downcase == 'pi'" %}
-{% assign current_ms         = current | where_exp: "d", "d.role and d.role | downcase == 'ms'" %}
-{% assign current_undergrad  = current | where_exp: "d", "d.role and d.role | downcase == 'undergrad'" %}
-{% assign current_mascot     = current | where_exp: "d", "d.role and d.role | downcase == 'mascot'" %}
+{%- comment -%} Split by role (exact, no filters/pipes) {%- endcomment -%}
+{% assign current_pi        = current | where: "role", "pi" %}
+{% assign current_ms        = current | where: "role", "ms" %}
+{% assign current_undergrad = current | where: "role", "undergrad" %}
+{% assign current_mascot    = current | where: "role", "mascot" %}
 
 {%- comment -%}
 <!-- debug: all={{ site.members | size }}, current={{ current | size }}, pi={{ current_pi | size }}, ms={{ current_ms | size }}, ug={{ current_undergrad | size }}, mascot={{ current_mascot | size }} -->
