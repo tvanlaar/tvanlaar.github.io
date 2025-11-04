@@ -1,6 +1,6 @@
 - id: doi:10.1093/jhered/esaf076
   title: Reference genome of an irruptive migrant, the pine siskin (<i>Spinus pinus</i>)
-  image: images/jairfig2.png
+  image: "images/jairfig2.png"
   tags:
     - genomics
     - pine siskin
