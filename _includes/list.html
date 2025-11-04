@@ -1,9 +1,6 @@
 {% assign emptyarray = "" | split: "," %}
 
-{%- comment -%}
-Base dataset: prefer `records` (pre-filtered array) if provided,
-else load from site data or collections by `data` key.
-{%- endcomment -%}
+{%- comment -%} Prefer pre-filtered `records`, else load by key {%- endcomment -%}
 {% if include.records %}
   {% assign base = include.records %}
 {% else %}
@@ -12,14 +9,13 @@ else load from site data or collections by `data` key.
     | default: emptyarray %}
 {% endif %}
 
-{%- comment -%}
-Apply optional filters via your custom `data_filter`.
-{%- endcomment -%}
-{% assign data = base | data_filter: include.filters %}
+{%- comment -%} Apply filters only if provided {%- endcomment -%}
+{% assign data = base %}
+{% if include.filters %}
+  {% assign data = data | data_filter: include.filters %}
+{% endif %}
 
-{%- comment -%}
-If any items have a `date`, group by year; otherwise render flat.
-{%- endcomment -%}
+{%- comment -%} Only year-group if items have a date {%- endcomment -%}
 {% assign has_dates = data | where_exp: "d", "d.date" %}
 
 {% if has_dates.size > 0 %}
@@ -27,15 +23,12 @@ If any items have a `date`, group by year; otherwise render flat.
     | group_by_exp: "d", "d.date | date: '%Y'"
     | sort: "name"
     | reverse %}
-
   {% for year in years %}
     {% assign items = year.items %}
-
     {% if years.size > 1 %}
       {{--}}<h3 id="{{ year.name }}">{{ year.name }}</h3>
       {% assign items = items | sort: "date" | reverse %}
     {% endif %}
-
     {% for d in items %}
       {% assign style = d.style | default: include.style %}
       {%
@@ -74,9 +67,7 @@ If any items have a `date`, group by year; otherwise render flat.
       %}
     {% endfor %}
   {% endfor %}
-
 {% else %}
-
   {% for d in data %}
     {% assign style = d.style | default: include.style %}
     {%
@@ -114,5 +105,4 @@ If any items have a `date`, group by year; otherwise render flat.
       width=d.width
     %}
   {% endfor %}
-
 {% endif %}
