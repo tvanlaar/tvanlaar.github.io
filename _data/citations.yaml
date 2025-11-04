@@ -90,8 +90,13 @@
   date: '2025-03-29'
   link: https://doi.org/g9fm63
   orcid: 0000-0002-4654-8501
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: images/lindsey2.jpg
+  tags:
+  - immunology
+  - microbiology
+  - ornithology
 - id: doi:10.1128/mra.00576-24
   title: 16S rRNA gene sequencing of microbiota from the preen oil and cloaca of chipping
     sparrows (<i>Spizella passerina</i>)
