@@ -1,6 +1,6 @@
 ---
 name: Barney
-image: images/barney2.jpeg
+image: images/barney2.jpg
 role: mascot
 group: current
 links:
