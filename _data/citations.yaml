@@ -1,5 +1,25 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/mra.00891-25
+  title: "Draft genome sequence of\n                    <i>Muricoccus roseus</i>\n\
+    \                    DSM 14916\n                    <sup>T</sup>\n           \
+    \         , isolated from a children\u2019s care center in Finland"
+  authors:
+  - Alejandra Valenzuela
+  - Jair Cortez
+  - Janelle Mande
+  - Cody Fondse
+  - Vera Thiel
+  - Kurt LaButti
+  - Nikos Kyrpides
+  - Rekha Seshadri
+  - Tricia A. Van Laar
+  publisher: Microbiology Resource Announcements
+  date: '2025-11-26'
+  link: https://doi.org/hbdqd2
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1128/mra.00842-25
   title: "Draft genome sequence of\n                    <i>Clostridium tetanomorphum</i>\n\
     \                    DSM 4474\n                    <sup>T</sup>\n            \
