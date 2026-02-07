@@ -2,7 +2,7 @@
 name: Lillyanna Azevedo
 image: images/lilly.png
 role: undergrad
-group: current
+group: alum
 links:
 
   

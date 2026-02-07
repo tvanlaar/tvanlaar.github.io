@@ -2,7 +2,7 @@
 name: Isabella Fregoso
 image: images/isabella.jpeg
 role: undergrad
-group: current
+group: alum
 links:
 
   
