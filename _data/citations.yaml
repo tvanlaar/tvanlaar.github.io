@@ -1,5 +1,43 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1128/mra.00053-26
+  title: Draft genome sequences of three bacteria with antimicrobial activity isolated
+    from pond sediment on a university campus
+  authors:
+  - Holly Moffett
+  - Naomi Inthirath
+  - Jessica Mojica
+  - Delia Moreno
+  - Marcos Martinez
+  - Taylor Hedley
+  - Arielle Names
+  - Cassandra M. Haakma
+  - Priscilla J. Garcia
+  - Ally Watkins
+  - Tricia A. Van Laar
+  publisher: Microbiology Resource Announcements
+  date: '2026-07-09'
+  link: https://doi.org/hb926f
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jhered/esaf076
+  title: Reference genome of an irruptive migrant, the pine siskin (<i>Spinus pinus</i>)
+  authors:
+  - Jair Cortez
+  - Joel W G Slade
+  - Tricia A Van Laar
+  publisher: Journal of Heredity
+  date: '2025-10-07'
+  link: https://doi.org/g9827p
+  orcid: 0000-0002-4654-8501
+  plugin: sources.py
+  file: sources.yaml
+  image: images/jairfig2.png
+  tags:
+  - genomics
+  - pine siskin
+  - ornithology
 - id: doi:10.1128/mra.00891-25
   title: "Draft genome sequence of\n                    <i>Muricoccus roseus</i>\n\
     \                    DSM 14916\n                    <sup>T</sup>\n           \
@@ -15,7 +53,7 @@
   - Rekha Seshadri
   - Tricia A. Van Laar
   publisher: Microbiology Resource Announcements
-  date: '2025-11-26'
+  date: '2026-01-13'
   link: https://doi.org/hbdqd2
   orcid: 0000-0002-4654-8501
   plugin: orcid.py
@@ -44,23 +82,6 @@
   tags:
   - genome sequencing
   - microbiology
-- id: doi:10.1093/jhered/esaf076
-  title: Reference genome of an irruptive migrant, the pine siskin (<i>Spinus pinus</i>)
-  authors:
-  - Jair Cortez
-  - Joel W G Slade
-  - Tricia A Van Laar
-  publisher: Journal of Heredity
-  date: '2025-10-07'
-  link: https://doi.org/g9827p
-  orcid: 0000-0002-4654-8501
-  plugin: sources.py
-  file: sources.yaml
-  image: images/jairfig2.png
-  tags:
-  - genomics
-  - pine siskin
-  - ornithology
 - id: doi:10.1128/mra.01296-24
   title: "Draft genome sequence of\n            <i>Dolosicoccus paucivorans</i>\n\
     \            DSM 15742\n            <sup>T</sup>\n            isolated from a\
