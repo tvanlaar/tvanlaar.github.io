@@ -2,7 +2,7 @@
 name: Jessica Mojica
 image: images/jessica.jpg
 role: ms
-group: current
+group: alum
 links:
   linkedin: jessica-mojica-92b0a626b
 ---
