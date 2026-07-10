@@ -20,8 +20,8 @@ links:
   eBird: Mjc0MTg1
 ---
 
-I am in my fourth year as a faculty member at Stan State and I am so excited to be a Warrior again! My research interests include birds, bioinformatics, and bacteria in any combination. I really enjoying teaching and helping students figure out new things about biology they may have never considered as an interest before.
+I am in my fifth year as a faculty member at Stan State and I am so excited to be a Warrior again! My research interests include birds, bioinformatics, and bacteria in any combination. I really enjoying teaching and helping students figure out new things about biology they may have never considered as an interest before.
 
-In my "free time", I love spending time with family. We enjoy traveling, birding, and relaxing together. We have 9 chickens (including a noisy boi), 2 cats (Fiona Apple and Frank Sinatra), and two miniature dachshunds (Barney and Charlie).
+In my "free time", I love spending time with family. We enjoy traveling, birding, and relaxing together. We have 8 chickens (including a noisy boi), 2 cats (Fiona Apple and Frank Sinatra), and two miniature dachshunds (Barney and Charlie).
 
 Check out [Dr. Van Laar's CV as a pdf](https://tvanlaar.github.io/pdfs/VanLaarCV.pdf)
