@@ -2,7 +2,7 @@
 name: Ezabel Castro
 image: images/ezabel.jpeg
 role: ms
-group: current
+group: alum
 links:
   linkedin: ezabel-castro-4bb216159
 ---
