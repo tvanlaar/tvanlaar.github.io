@@ -6,7 +6,7 @@
 Here's where you can find information on my teaching and research...and other stuff I am interested in!
 <br>
 <br>
-We are not currently recruiting any MS students, but interested undergraduates should email Dr. Van Laar with a CV and statement of why they'd like to join the group.
+Unfortunately, we're not currently taking students, but check back here for any changes.
 
 {% include section.html %}
 
