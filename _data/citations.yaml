@@ -1,5 +1,32 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1636/joa-s-24-029
+  title: 'Sex differences in phosphoglucomutase genotypes: Evidence of sex-linked
+    inheritance in the woodlouse spider Dysdera crocata C. L. Koch, 1838 (Araneae:
+    Dysderidae)?'
+  authors:
+  - Martina Ramirez
+  - Kayla Saunders
+  - Amy de Harde
+  - Melinda Catala
+  - Jacqueline McCall
+  - Ally Zein
+  - Karina Mendez
+  - Chinelo Okafor
+  - Lauren Quesada
+  - Ivana Small
+  - Emily Sramaty
+  - Isabella Lopez
+  - Donya Moghtader
+  - Sabriya Seid
+  - Sofia Acosta
+  - Tricia Van Laar
+  publisher: The Journal of Arachnology
+  date: '2026-11-24'
+  link: https://doi.org/hctxmf
+  orcid: 0000-0002-4654-8501
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1128/mra.00053-26
   title: Draft genome sequences of three bacteria with antimicrobial activity isolated
     from pond sediment on a university campus
@@ -83,9 +110,9 @@
   - genome sequencing
   - microbiology
 - id: doi:10.1128/mra.01296-24
-  title: "Draft genome sequence of\n            <i>Dolosicoccus paucivorans</i>\n\
-    \            DSM 15742\n            <sup>T</sup>\n            isolated from a\
-    \ patient\u2019s blood in Cleveland, Ohio"
+  title: "Draft genome sequence of\n                    <i>Dolosicoccus paucivorans</i>\n\
+    \                    DSM 15742\n                    <sup>T</sup>\n           \
+    \         isolated from a patient\u2019s blood in Cleveland, Ohio"
   authors:
   - Angelina Garcia Guzman
   - Andrea Orozco
@@ -130,8 +157,8 @@
   - genome sequencing
   - microbiology
 - id: doi:10.1093/icb/icaf005
-  title: Cardueline Finches Vary in Constitutive Innate Immunity Against a Harmful
-    Strain of Avian <i>Salmonella</i>
+  title: "Cardueline Finches Vary in Constitutive Innate Immunity Against a Harmful\
+    \ Strain of Avian\n                    <i>Salmonella</i>"
   authors:
   - Lindsey G Biehler
   - "Tricia A Van\_Laar"
