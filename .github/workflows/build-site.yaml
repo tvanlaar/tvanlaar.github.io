@@ -18,6 +18,8 @@ permissions:
 jobs:
   build-site:
     runs-on: ubuntu-latest
+    env:
+      BUNDLE_BUILD__POSIX_SPAWN: "--with-cflags=-Wno-incompatible-function-pointer-types"
 
     steps:
       # for debugging
