@@ -33,7 +33,13 @@ jobs:
         uses: ruby/setup-ruby@v1
         with:
           ruby-version: "3.0"
-          bundler-cache: true
+          bundler-cache: false
+
+      - name: Configure posix-spawn
+        run: bundle config set --local build.posix-spawn --with-cflags="-Wno-incompatible-function-pointer-types"
+
+      - name: Install Ruby packages
+        run: bundle install --jobs 4
 
       - name: Get Pages url
         id: pages
